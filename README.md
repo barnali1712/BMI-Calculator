@@ -1,8 +1,8 @@
-BMI CALCULATOR
+# BMI CALCULATOR
 
 A simple BMI (Body Mass Index) Calculator built using Python and Tkinter to calculate and display BMI along with health status based on the user's height and weight.
 
-FEATURES
+# FEATURES
 
 User-friendly graphical interface (GUI).
 
